@@ -1,0 +1,2 @@
+# Real-Time-Object-Detection-and-GPS-Navigation-with-Audio-Feedback-Using-YOLO
+Real-time object detection system using YOLO integrated with GPS navigation and audio feedback, specifically designed to assist visually impaired individuals. The system detects obstacles, classifies objects, provides real-time spoken alerts, and guides users with GPS-based directions for safe and independent mobility.  
